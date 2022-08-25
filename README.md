@@ -13,9 +13,9 @@ As an extension of this idea, the data can be exported continuously to a Cloud b
 
 
 Requirements:
-  Default Screen
-  Login Screen
-  Main Menu
-  View Log
-  Set Time
+  Default Screen,
+  Login Screen,
+  Main Menu,
+  View Log,
+  Set Time,
   Event Capture
